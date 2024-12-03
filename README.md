@@ -25,7 +25,7 @@ The frontend was also deployed on Render as a Static Site, ensuring seamless int
 The frontend communicates with the backend and lunched locally in the testing phase but on hosting in render, the backend failed to stand everytime.
 
 
-![My Image of the local deployment](images/IMG-20241130-WA0008.jpg )
+![My Image of the local deployment](image/IMG-20241130-WA0008.jpg )
 
 
 
