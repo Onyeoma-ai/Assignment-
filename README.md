@@ -22,7 +22,7 @@ The frontend was also deployed on Render as a Static Site, ensuring seamless int
 
 3. Integration:
 
-The frontend communicates with the backend and lunched in the testing phase but on hosting in render, the backend failed to stand everytime.
+The frontend communicates with the backend and lunched locally in the testing phase but on hosting in render, the backend failed to stand everytime.
 
 
 [TaskMaster Frontend](https://task-frontend-t25m.onrender.com/)
