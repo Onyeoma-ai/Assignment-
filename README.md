@@ -22,8 +22,7 @@ The frontend was also deployed on Render as a Static Site, ensuring seamless int
 
 3. Integration:
 
-The frontend communicates with the backend and lunched locally in the testing phase but on hosting in render, the backend failed to stand everytime. Below is the image of the local deployment working.
-
+The frontend communicates with the backend and lunched locally in the testing phase but on hosting in render, the backend failed to stand everytime. Below is the image of the local deployment working and farther below is the link to the taskmaster.
 
 ![My Image of the local deployment](Image/IMG-20241130-WA0008.jpg )
 
